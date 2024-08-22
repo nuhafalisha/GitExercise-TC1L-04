@@ -3,4 +3,10 @@ He brushes his teeth.
 He takes a bath.
 He has breakfast.
 Then he goes to class.
+<<<<<<< HEAD
 Then he watched Youtube.
+=======
+His friend, Adrianna didn't attend class.
+He was left alone.
+Then he checked Instagram.
+>>>>>>> at-the-class
